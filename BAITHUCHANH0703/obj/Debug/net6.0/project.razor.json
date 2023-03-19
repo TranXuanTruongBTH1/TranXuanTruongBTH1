@@ -18374,6 +18374,11 @@
   "RootNamespace": "BAITHUCHANH0703",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\LAPTOP THANH DU\\NetCore\\TranXuanTruongBTH1\\BAITHUCHANH0703\\Views\\StringProcess\\UpperToLower.cshtml",
+      "TargetPath": "Views\\StringProcess\\UpperToLower.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\LAPTOP THANH DU\\NetCore\\TranXuanTruongBTH1\\BAITHUCHANH0703\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -18394,6 +18399,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\LAPTOP THANH DU\\NetCore\\TranXuanTruongBTH1\\BAITHUCHANH0703\\Views\\StringProcess\\CapitalizeFirstCharacter.cshtml",
+      "TargetPath": "Views\\StringProcess\\CapitalizeFirstCharacter.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\LAPTOP THANH DU\\NetCore\\TranXuanTruongBTH1\\BAITHUCHANH0703\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -18404,6 +18414,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\LAPTOP THANH DU\\NetCore\\TranXuanTruongBTH1\\BAITHUCHANH0703\\Views\\StringProcess\\Index.cshtml",
+      "TargetPath": "Views\\StringProcess\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\LAPTOP THANH DU\\NetCore\\TranXuanTruongBTH1\\BAITHUCHANH0703\\Views\\StringProcess\\LowerToUpper.cshtml",
+      "TargetPath": "Views\\StringProcess\\LowerToUpper.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\LAPTOP THANH DU\\NetCore\\TranXuanTruongBTH1\\BAITHUCHANH0703\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -18411,6 +18431,11 @@
     {
       "FilePath": "c:\\Users\\LAPTOP THANH DU\\NetCore\\TranXuanTruongBTH1\\BAITHUCHANH0703\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\LAPTOP THANH DU\\NetCore\\TranXuanTruongBTH1\\BAITHUCHANH0703\\Views\\StringProcess\\CapitalizeOneFirstCharacter.cshtml",
+      "TargetPath": "Views\\StringProcess\\CapitalizeOneFirstCharacter.cshtml",
       "FileKind": "mvc"
     },
     {

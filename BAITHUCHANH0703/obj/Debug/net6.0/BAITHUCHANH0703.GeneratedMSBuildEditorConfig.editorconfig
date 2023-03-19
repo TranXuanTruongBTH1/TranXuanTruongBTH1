@@ -8,49 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BAITHUCHANH0703
 build_property.RootNamespace = BAITHUCHANH0703
-build_property.ProjectDir = C:\Users\LAPTOP THANH DU\NetCore\TranXuanTruongBTH1\BAITHUCHANH0703\
+build_property.ProjectDir = c:\Users\LAPTOP THANH DU\NetCore\TranXuanTruongBTH1\BAITHUCHANH0703\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\LAPTOP THANH DU\NetCore\TranXuanTruongBTH1\BAITHUCHANH0703
+build_property.MSBuildProjectDirectory = c:\Users\LAPTOP THANH DU\NetCore\TranXuanTruongBTH1\BAITHUCHANH0703
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/Home/Index.cshtml]
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/Home/Privacy.cshtml]
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/Shared/Error.cshtml]
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/student/Index.cshtml]
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/StringProcess/CapitalizeFirstCharacter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nUHJvY2Vzc1xDYXBpdGFsaXplRmlyc3RDaGFyYWN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/StringProcess/CapitalizeOneFirstCharacter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nUHJvY2Vzc1xDYXBpdGFsaXplT25lRmlyc3RDaGFyYWN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/StringProcess/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nUHJvY2Vzc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/StringProcess/LowerToUpper.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nUHJvY2Vzc1xMb3dlclRvVXBwZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/StringProcess/UpperToLower.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nUHJvY2Vzc1xVcHBlclRvTG93ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/student/Phuongtrinhbac2.cshtml]
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/student/Phuongtrinhbac2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3R1ZGVudFxQaHVvbmd0cmluaGJhYzIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/student/TinhTong.cshtml]
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/student/TinhTong.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3R1ZGVudFxUaW5oVG9uZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/_ViewImports.cshtml]
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/_ViewStart.cshtml]
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/Shared/_Layout.cshtml]
+[c:/Users/LAPTOP THANH DU/NetCore/TranXuanTruongBTH1/BAITHUCHANH0703/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2qmmqmueld
