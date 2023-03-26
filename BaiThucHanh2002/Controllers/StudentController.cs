@@ -1,3 +1,4 @@
+using System.Collections.Specialized;
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using BaiThucHanh2002.Models;
@@ -13,13 +14,16 @@ public class StudentController : Controller
         _logger = logger;
     }
 
-    public IActionResult Index()
+    public IActionResult Create()
     {
+        
         return View();
     }
-
-    public IActionResult Privacy()
+[HttpPost]
+    public IActionResult Create(Student std)
     {
+        string ketqua = std.StudentCode +"_" + std.FullName + "_" +std.Address;
+        ViewBag.message = ketqua;
         return View();
     }
 
@@ -29,3 +33,4 @@ public class StudentController : Controller
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }
+
