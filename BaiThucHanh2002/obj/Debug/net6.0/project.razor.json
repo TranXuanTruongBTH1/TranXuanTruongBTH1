@@ -18414,6 +18414,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\LAPTOP THANH DU\\NetCore\\TranXuanTruongBTH1\\BaiThucHanh2002\\Views\\Person\\About.cshtml",
+      "TargetPath": "Views\\Person\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\LAPTOP THANH DU\\NetCore\\TranXuanTruongBTH1\\BaiThucHanh2002\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
